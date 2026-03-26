@@ -65,4 +65,4 @@ skill-architect/
 
 ## Автор
 
-[Тимур Угулава](https://github.com/TimurUgulava)
+[Тимур Угулава](https://t.me/+ZPqkVNfhlA1mNWIy)
