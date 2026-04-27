@@ -76,6 +76,6 @@ meme-maker/
 
 Каталог мем-шаблонов **расширяемый**. Если нужного шаблона нет (например, Surprised Pikachu, Disaster Girl, Gru's Plan, Roll Safe) — попроси скилл нарисовать, и после успешной генерации он сам добавит блок в `meme_catalog.md` и промпт-скелет в `prompting_rules.md`.
 
-## Лицензия
+## Автор
 
-MIT — см. [LICENSE](LICENSE).
+[Тимур Угулава](https://t.me/+ZPqkVNfhlA1mNWIy)
